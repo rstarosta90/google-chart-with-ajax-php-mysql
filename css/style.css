@@ -1,0 +1,19 @@
+h5 {
+	font-weight: bold;
+}
+#form-box {
+	position: relative;
+	margin-top: 22%;
+	border-radius: 10px;
+	border: 1px solid #CDD2D4;
+}
+#google-chart-box {
+	position: relative;
+	margin-top: 20%;
+}
+#danger-alert {
+	display: none;
+}
+#success-alert {
+	display: none;
+}
